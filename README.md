@@ -87,7 +87,7 @@ I enjoy exploring the connection between **hardware and software** — including
 ![Visitor Count](https://komarev.com/ghpvc/?username=AtaifaFaisal87&color=6E57F7&style=flat-square&label=Profile+Views)
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=534AB7&background=EEEDFE&center=true&vCenter=true&width=650&height=50&lines=The+more+I+learn%2C+the+more+I+realize+how+much+I+don%27t+know." alt="Quote" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=50&text=The+more+I+learn,+the+more+I+realize+how+much+I+don't+know.&fontSize=14&fontColor=c0caf5&fontAlign=50&fontAlignY=50" />
 </div>
 
 </div>
