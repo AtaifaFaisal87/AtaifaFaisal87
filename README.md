@@ -2,7 +2,7 @@
 
 <!-- Animated typing intro -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ataifa+Faisal+%F0%9F%91%8B;Computer+Systems+Engineering+Student;Exploring+Hardware+%2B+Software+%F0%9F%94%AC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ataifa+Faisal+%F0%9F%91%8B;Computer+Systems+Engineering+Student" alt="Typing SVG" />
 </a>
 
 </div>
@@ -24,7 +24,14 @@ I enjoy exploring the connection between **hardware and software** — including
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,qt,visualstudio,vscode,github&theme=dark&perline=8" />
+<a href="https://github.com/topics/c"><img src="https://skillicons.dev/icons?i=c&theme=dark" /></a>
+<a href="https://github.com/topics/cpp"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
+<a href="https://github.com/topics/csharp"><img src="https://skillicons.dev/icons?i=cs&theme=dark" /></a>
+<a href="https://github.com/topics/python"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
+<a href="https://github.com/topics/qt"><img src="https://skillicons.dev/icons?i=qt&theme=dark" /></a>
+<a href="https://github.com/topics/visual-studio"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" /></a>
+<a href="https://github.com/topics/vscode"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
+<a href="https://github.com/topics/github"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
 
 </div>
 
