@@ -1,0 +1,82 @@
+<div align="center">
+
+<!-- Animated typing intro -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ataifa+Faisal+%F0%9F%91%8B;Computer+Systems+Engineering+Student;Exploring+Hardware+%2B+Software+%F0%9F%94%AC" alt="Typing SVG" />
+</a>
+
+</div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=6E57F7&height=60&section=header&fontAlign=50" />
+
+## 👩‍💻 About Me
+
+I'm a **Computer Systems Engineering** student at **NED University of Engineering & Technology**, with a strong interest in understanding technology from the ground up.
+
+I enjoy exploring the connection between **hardware and software** — including programming, computer systems, and digital architecture. I'm continuously building my skills in programming, problem-solving, and core computing concepts while exploring **AI**, **cybersecurity**, and **software development**.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,qt,visualstudio,vscode,github&theme=dark&perline=8" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AtaifaFaisal87&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtaifaFaisal87&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" height="165"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AtaifaFaisal87&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtaifaFaisal87/AtaifaFaisal87/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtaifaFaisal87/AtaifaFaisal87/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AtaifaFaisal87/AtaifaFaisal87/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_header.svg" />
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=6E57F7&height=60&section=footer&fontAlign=50" />
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ataifa-faisal-224084344)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ataifa_Faisal/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ataifafaisal2007@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AtaifaFaisal87&color=6E57F7&style=flat-square&label=Profile+Views)
+
+> 💡 *"The more I learn, the more I realize how much I don't know."*
+
+</div>
