@@ -40,12 +40,9 @@ I enjoy exploring the connection between **hardware and software** — including
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AtaifaFaisal87&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AtaifaFaisal87&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtaifaFaisal87&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" height="165"/>
-
 </div>
-
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AtaifaFaisal87&theme=tokyonight&hide_border=true&cache_seconds=1800)
