@@ -86,6 +86,8 @@ I enjoy exploring the connection between **hardware and software** — including
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=AtaifaFaisal87&color=6E57F7&style=flat-square&label=Profile+Views)
 
-> 💡 *"The more I learn, the more I realize how much I don't know."*
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=534AB7&background=EEEDFE&center=true&vCenter=true&width=650&height=50&lines=The+more+I+learn%2C+the+more+I+realize+how+much+I+don%27t+know." alt="Quote" />
+</div>
 
 </div>
