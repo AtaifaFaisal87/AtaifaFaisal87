@@ -8,7 +8,7 @@
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=6E57F7&height=60&section=header&fontAlign=50" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 👩‍💻 About Me
 
@@ -59,7 +59,7 @@ I enjoy exploring the connection between **hardware and software** — including
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_header.svg" />
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=6E57F7&height=60&section=footer&fontAlign=50" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌐 Connect With Me
 
