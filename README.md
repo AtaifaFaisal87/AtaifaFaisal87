@@ -67,16 +67,6 @@ I enjoy exploring the connection between **hardware and software** — including
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_header.svg" />
 
-## 🔥 Currently Exploring
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🔐 Cybersecurity fundamentals
-- 💻 Software development with C# & Qt
-- 🧠 Problem solving on LeetCode
-
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=6E57F7&height=60&section=footer&fontAlign=50" />
-
 ## 🌐 Connect With Me
 
 <div align="center">
