@@ -14,7 +14,7 @@
 
 I'm a **Computer Systems Engineering** student at **NED University of Engineering & Technology**, with a strong interest in understanding technology from the ground up.
 
-I enjoy exploring the connection between **hardware and software** — including programming, computer systems, and digital architecture. I'm continuously building my skills in programming, problem-solving, and core computing concepts while exploring **AI**, **cybersecurity**, and **software development**.
+I enjoy exploring the connection between **hardware and software** including programming, computer systems, and digital architecture. I'm continuously building my skills in programming, problem-solving, and core computing concepts while exploring **AI**, **cybersecurity**, and **software development**.
 
 📫 How to reach me: [ataifafaisal2007@gmail.com](mailto:ataifafaisal2007@gmail.com)
 
