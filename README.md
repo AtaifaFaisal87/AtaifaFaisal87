@@ -33,7 +33,9 @@ I enjoy exploring the connection between **hardware and software** including pro
 <a href="https://github.com/topics/vscode"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
 <a href="https://github.com/topics/github"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
 <a href="https://github.com/topics/arduino"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" /></a>
-<a href="https://www.tinkercad.com/"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" /></a>
+<a href="https://www.tinkercad.com/">
+  <img src="https://cdn.simpleicons.org/tinkercad" height="48" alt="Tinkercad"/>
+</a>
 
 </div>
 
