@@ -45,9 +45,9 @@ I enjoy exploring the connection between **hardware and software** including pro
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AtaifaFaisal87&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AtaifaFaisal87&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtaifaFaisal87&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtaifaFaisal87&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
