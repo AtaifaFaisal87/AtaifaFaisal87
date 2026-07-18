@@ -75,9 +75,6 @@ I enjoy exploring the connection between **hardware and software** including pro
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtaifaFaisal87&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
 
 ## 🌐 Connect With Me
 
