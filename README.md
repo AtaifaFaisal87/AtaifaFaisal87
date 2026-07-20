@@ -44,18 +44,8 @@ I enjoy exploring the connection between **hardware and software** including pro
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AtaifaFaisal87&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtaifaFaisal87&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AtaifaFaisal87&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
