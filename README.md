@@ -28,6 +28,7 @@ I enjoy exploring the connection between **hardware and software** including pro
 <a href="https://github.com/topics/cpp"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
 <a href="https://github.com/topics/csharp"><img src="https://skillicons.dev/icons?i=cs&theme=dark" /></a>
 <a href="https://github.com/topics/python"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
+<a href="https://github.com/topics/mysql"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
 <a href="https://github.com/topics/arduino"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" /></a>
 <a href="https://github.com/topics/qt"><img src="https://skillicons.dev/icons?i=qt&theme=dark" /></a>
 <a href="https://github.com/topics/visual-studio"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" /></a>
