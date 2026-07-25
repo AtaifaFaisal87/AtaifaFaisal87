@@ -24,16 +24,16 @@ I enjoy exploring the connection between **hardware and software** including pro
 
 <div align="center">
 
-<a href="https://github.com/topics/c"><img src="https://skillicons.dev/icons?i=c&theme=dark" /></a>
-<a href="https://github.com/topics/cpp"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
-<a href="https://github.com/topics/csharp"><img src="https://skillicons.dev/icons?i=cs&theme=dark" /></a>
-<a href="https://github.com/topics/python"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
-<a href="https://github.com/topics/mysql"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
-<a href="https://github.com/topics/arduino"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" /></a>
-<a href="https://github.com/topics/qt"><img src="https://skillicons.dev/icons?i=qt&theme=dark" /></a>
-<a href="https://github.com/topics/visual-studio"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" /></a>
-<a href="https://github.com/topics/vscode"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
-<a href="https://github.com/topics/github"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
+<a href="https://www.c-language.org/"><img src="https://skillicons.dev/icons?i=c&theme=dark" /></a>
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
+<a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://skillicons.dev/icons?i=cs&theme=dark" /></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
+<a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" /></a>
+<a href="https://www.qt.io/"><img src="https://skillicons.dev/icons?i=qt&theme=dark" /></a>
+<a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
 <a href="https://www.tinkercad.com/">
   <img src="https://cdn.simpleicons.org/tinkercad" height="48" alt="Tinkercad"/>
 </a>
