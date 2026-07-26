@@ -42,7 +42,7 @@ I enjoy exploring the connection between **hardware and software** including pro
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contribution Analytics
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtaifaFaisal87&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
