@@ -45,7 +45,6 @@ I enjoy exploring the connection between **hardware and software** including pro
 ## 📊 Github Stats
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=AtaifaFaisal87&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AtaifaFaisal87&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 <img height="165" src="https://streak-stats.demolab.com?user=AtaifaFaisal87&theme=tokyonight&hide_border=true"/>
 
