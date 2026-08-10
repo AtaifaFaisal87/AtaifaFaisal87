@@ -56,14 +56,14 @@ I enjoy exploring the connection between **hardware and software** including pro
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtaifaFaisal87&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
-## 🐍 Contribution Snake
+## 👾 Contribution Invaders
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtaifaFaisal87/AtaifaFaisal87/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtaifaFaisal87/AtaifaFaisal87/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AtaifaFaisal87/AtaifaFaisal87/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtaifaFaisal87/AtaifaFaisal87/output/commit-invaders-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtaifaFaisal87/AtaifaFaisal87/output/commit-invaders.svg" />
+  <img alt="commit-invaders" src="https://raw.githubusercontent.com/AtaifaFaisal87/AtaifaFaisal87/output/commit-invaders.svg" />
 </picture>
 
 </div>
