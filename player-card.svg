@@ -53,9 +53,9 @@
   <rect x="0" y="0" width="500" height="220" rx="14" fill="#0d0f18"/>
   <rect class="card-border" x="2" y="2" width="496" height="216" rx="12" fill="none" stroke="url(#borderGradient)" stroke-width="2"/>
 
-  <rect class="insert-coin" x="168" y="28" width="8" height="8" fill="#5a5f78"/>
-  <text class="insert-coin" x="250" y="37" text-anchor="middle" font-size="12" letter-spacing="3" fill="#f5a623" font-weight="bold">INSERT COIN TO CONTINUE</text>
-  <rect class="insert-coin" x="324" y="28" width="8" height="8" fill="#5a5f78"/>
+  <rect class="insert-coin" x="34" y="28" width="8" height="8" fill="#5a5f78"/>
+  <text class="insert-coin" x="250" y="37" text-anchor="middle" font-size="11" letter-spacing="2" fill="#f5a623" font-weight="bold">INSERT COIN TO CONTINUE</text>
+  <rect class="insert-coin" x="458" y="28" width="8" height="8" fill="#5a5f78"/>
 
   <text class="player-name" x="250" y="82" text-anchor="middle" font-size="28" font-weight="bold" letter-spacing="2" fill="#5ce1ff">ATAIFA FAISAL</text>
 
