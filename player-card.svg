@@ -5,6 +5,11 @@
       <stop offset="50%" stop-color="#4ea8ff"/>
       <stop offset="100%" stop-color="#5ce1ff"/>
     </linearGradient>
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8a5cff"/>
+      <stop offset="50%" stop-color="#5ce1ff"/>
+      <stop offset="100%" stop-color="#8a5cff"/>
+    </linearGradient>
   </defs>
 
   <style>
@@ -26,6 +31,11 @@
       0%, 100% { filter: drop-shadow(0 0 2px #5ce1ff); }
       50% { filter: drop-shadow(0 0 8px #5ce1ff); }
     }
+    @keyframes borderPulse {
+      0%, 100% { stroke-opacity: 0.55; }
+      50% { stroke-opacity: 1; }
+    }
+    .card-border { animation: borderPulse 2.4s ease-in-out infinite; }
     .insert-coin { animation: blink 1.8s infinite; }
     .bar-fill { animation: fillBar 2.2s ease-out 1; }
     .bar-shimmer { animation: shimmer 2.5s linear infinite; }
@@ -34,6 +44,7 @@
   </style>
 
   <rect x="0" y="0" width="900" height="220" fill="#0d0f18"/>
+  <rect class="card-border" x="2" y="2" width="896" height="216" fill="none" stroke="url(#borderGradient)" stroke-width="2"/>
 
   <rect class="insert-coin" x="345" y="28" width="8" height="8" fill="#5a5f78"/>
   <text class="insert-coin" x="450" y="37" text-anchor="middle" font-size="11" letter-spacing="2" fill="#f5a623" font-weight="bold">INSERT COIN TO CONTINUE</text>
