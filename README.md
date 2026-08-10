@@ -56,15 +56,11 @@ I enjoy exploring the connection between **hardware and software** including pro
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtaifaFaisal87&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
-## 👾 Contribution Invaders
+## 🚀 Contribution Space Shooter
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtaifaFaisal87/AtaifaFaisal87/output/commit-invaders-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtaifaFaisal87/AtaifaFaisal87/output/commit-invaders.svg" />
-  <img alt="commit-invaders" src="https://raw.githubusercontent.com/AtaifaFaisal87/AtaifaFaisal87/output/commit-invaders.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/AtaifaFaisal87/AtaifaFaisal87/main/game.gif" width="100%" />
 
 </div>
 
