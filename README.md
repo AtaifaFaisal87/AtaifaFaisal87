@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AtaifaFaisal87/AtaifaFaisal87/main/player-card.svg" width="650" />
+<img src="https://raw.githubusercontent.com/AtaifaFaisal87/AtaifaFaisal87/main/player-card.svg" width="500" />
 
 </div>
 
