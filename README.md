@@ -1,10 +1,10 @@
 <div align="center">
-<!-- Animated typing intro -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ataifa+Faisal+%F0%9F%91%8B;Computer+Systems+Engineering+Student" alt="Typing SVG" />
-</a>
+
+<img src="https://raw.githubusercontent.com/AtaifaFaisal87/AtaifaFaisal87/main/player-card.svg" width="500" />
+
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">   update it yourself
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
 ## 👩‍💻 About Me
