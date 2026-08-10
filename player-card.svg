@@ -1,14 +1,9 @@
-<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="220" viewBox="0 0 500 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="barGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#7c5cff"/>
       <stop offset="50%" stop-color="#4ea8ff"/>
       <stop offset="100%" stop-color="#5ce1ff"/>
-    </linearGradient>
-    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#8a5cff"/>
-      <stop offset="50%" stop-color="#5ce1ff"/>
-      <stop offset="100%" stop-color="#8a5cff"/>
     </linearGradient>
   </defs>
 
@@ -18,50 +13,44 @@
       50%, 95% { opacity: 0.15; }
       100% { opacity: 1; }
     }
-    @keyframes borderPulse {
-      0%, 100% { stroke-opacity: 0.55; }
-      50% { stroke-opacity: 1; }
-    }
     @keyframes fillBar {
       0% { width: 0px; }
-      60% { width: 500px; }
-      100% { width: 500px; }
+      60% { width: 246px; }
+      100% { width: 246px; }
     }
     @keyframes shimmer {
-      0% { transform: translateX(-80px); }
-      100% { transform: translateX(600px); }
+      0% { transform: translateX(-60px); }
+      100% { transform: translateX(320px); }
     }
     @keyframes nameGlow {
       0%, 100% { filter: drop-shadow(0 0 2px #5ce1ff); }
       50% { filter: drop-shadow(0 0 8px #5ce1ff); }
     }
     .insert-coin { animation: blink 1.8s infinite; }
-    .card-border { animation: borderPulse 2.4s ease-in-out infinite; }
     .bar-fill { animation: fillBar 2.2s ease-out 1; }
     .bar-shimmer { animation: shimmer 2.5s linear infinite; }
     .player-name { animation: nameGlow 2.8s ease-in-out infinite; }
     text { font-family: 'Courier New', monospace; }
   </style>
 
-  <rect x="0" y="0" width="900" height="220" rx="14" fill="#0d0f18"/>
-  <rect class="card-border" x="2" y="2" width="896" height="216" rx="12" fill="none" stroke="url(#borderGradient)" stroke-width="2"/>
+  <rect x="0" y="0" width="500" height="220" rx="14" fill="#0d0f18"/>
 
-  <rect class="insert-coin" x="90" y="28" width="8" height="8" fill="#5a5f78"/>
-  <text class="insert-coin" x="450" y="37" text-anchor="middle" font-size="12" letter-spacing="3" fill="#f5a623" font-weight="bold">INSERT COIN TO CONTINUE</text>
-  <rect class="insert-coin" x="802" y="28" width="8" height="8" fill="#5a5f78"/>
+  <rect class="insert-coin" x="34" y="28" width="8" height="8" fill="#5a5f78"/>
+  <text class="insert-coin" x="250" y="37" text-anchor="middle" font-size="11" letter-spacing="2" fill="#f5a623" font-weight="bold">INSERT COIN TO CONTINUE</text>
+  <rect class="insert-coin" x="458" y="28" width="8" height="8" fill="#5a5f78"/>
 
-  <text class="player-name" x="450" y="86" text-anchor="middle" font-size="34" font-weight="bold" letter-spacing="3" fill="#5ce1ff">ATAIFA FAISAL</text>
+  <text class="player-name" x="250" y="82" text-anchor="middle" font-size="28" font-weight="bold" letter-spacing="2" fill="#5ce1ff">ATAIFA FAISAL</text>
 
-  <text x="450" y="112" text-anchor="middle" font-size="14" letter-spacing="5" fill="#c7cbe0">PLAYER 1</text>
+  <text x="250" y="108" text-anchor="middle" font-size="13" letter-spacing="4" fill="#c7cbe0">PLAYER 1</text>
 
-  <rect x="200" y="145" width="500" height="14" rx="7" fill="#1c1f2e" stroke="#3a3f55" stroke-width="1"/>
+  <rect x="127" y="140" width="246" height="12" rx="6" fill="#1c1f2e" stroke="#3a3f55" stroke-width="1"/>
   <clipPath id="barClip">
-    <rect x="200" y="145" width="500" height="14" rx="7"/>
+    <rect x="127" y="140" width="246" height="12" rx="6"/>
   </clipPath>
   <g clip-path="url(#barClip)">
-    <rect class="bar-fill" x="200" y="145" height="14" fill="url(#barGradient)"/>
-    <rect class="bar-shimmer" x="200" y="145" width="40" height="14" fill="#ffffff" opacity="0.25"/>
+    <rect class="bar-fill" x="127" y="140" height="12" fill="url(#barGradient)"/>
+    <rect class="bar-shimmer" x="127" y="140" width="30" height="12" fill="#ffffff" opacity="0.25"/>
   </g>
 
-  <text x="450" y="188" text-anchor="middle" font-size="13" letter-spacing="2" fill="#7fe08a">LVL 2 &#8226; CSE STUDENT &#8226; NED UNIVERSITY</text>
+  <text x="250" y="180" text-anchor="middle" font-size="12" letter-spacing="1.5" fill="#7fe08a">LVL 2 &#8226; CSE STUDENT &#8226; NED UNIVERSITY</text>
 </svg>
