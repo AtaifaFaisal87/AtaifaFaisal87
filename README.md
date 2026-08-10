@@ -58,8 +58,11 @@ I enjoy exploring the connection between **hardware and software**, along with p
 <img src="https://raw.githubusercontent.com/AtaifaFaisal87/AtaifaFaisal87/main/game.gif" width="100%" />
 
 </div>
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_header.svg" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A5CFF,50:4EA8FF,100:5CE1FF&height=200&section=header&text=Ataifa%20Faisal&fontSize=50&fontColor=fff&fontAlignY=45" />
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
