@@ -18,7 +18,6 @@ I enjoy exploring the connection between **hardware and software**, along with p
 ---
 
 ## 🛠️ Tech Stack & Tools
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
