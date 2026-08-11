@@ -19,11 +19,9 @@ I enjoy exploring the connection between **hardware and software**, along with p
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AtaifaFaisal87/AtaifaFaisal87/main/tech-stack-animated.svg" width="900" />
-
-</div>
+<p align="center">
+  <img src="assets/tech-stack-animated.svg" alt="Tech Stack" />
+</p>
 
 ---
 
