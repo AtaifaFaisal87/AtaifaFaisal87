@@ -20,7 +20,7 @@ I enjoy exploring the connection between **hardware and software**, along with p
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="assets/tech-stack-animated.svg" alt="Tech Stack" />
+  <img src="tech-stack-animated.svg" alt="Tech Stack" />
 </p>
 
 
