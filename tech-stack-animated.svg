@@ -1,0 +1,59 @@
+<svg width="900" height="230" viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    @keyframes floaty {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-8px); }
+    }
+    .icon-float { animation: floaty 2.6s ease-in-out infinite; }
+    text { font-family: 'Segoe UI', Arial, sans-serif; fill: #c7cbe0; }
+  </style>
+
+  <!-- Row 1: C, C++, C#, Python, MySQL, Arduino -->
+  <g class="icon-float" style="animation-delay:0s" transform="translate(45,15)">
+    <image href="https://skillicons.dev/icons?i=c&theme=dark" width="60" height="60"/>
+    <text x="30" y="82" font-size="13" text-anchor="middle">C</text>
+  </g>
+  <g class="icon-float" style="animation-delay:0.15s" transform="translate(195,15)">
+    <image href="https://skillicons.dev/icons?i=cpp&theme=dark" width="60" height="60"/>
+    <text x="30" y="82" font-size="13" text-anchor="middle">C++</text>
+  </g>
+  <g class="icon-float" style="animation-delay:0.3s" transform="translate(345,15)">
+    <image href="https://skillicons.dev/icons?i=cs&theme=dark" width="60" height="60"/>
+    <text x="30" y="82" font-size="13" text-anchor="middle">C#</text>
+  </g>
+  <g class="icon-float" style="animation-delay:0.45s" transform="translate(495,15)">
+    <image href="https://skillicons.dev/icons?i=python&theme=dark" width="60" height="60"/>
+    <text x="30" y="82" font-size="13" text-anchor="middle">Python</text>
+  </g>
+  <g class="icon-float" style="animation-delay:0.6s" transform="translate(645,15)">
+    <image href="https://skillicons.dev/icons?i=mysql&theme=dark" width="60" height="60"/>
+    <text x="30" y="82" font-size="13" text-anchor="middle">MySQL</text>
+  </g>
+  <g class="icon-float" style="animation-delay:0.75s" transform="translate(795,15)">
+    <image href="https://skillicons.dev/icons?i=arduino&theme=dark" width="60" height="60"/>
+    <text x="30" y="82" font-size="13" text-anchor="middle">Arduino</text>
+  </g>
+
+  <!-- Row 2: Qt, Visual Studio, VS Code, GitHub, Tinkercad -->
+  <g class="icon-float" style="animation-delay:0.1s" transform="translate(120,130)">
+    <image href="https://skillicons.dev/icons?i=qt&theme=dark" width="60" height="60"/>
+    <text x="30" y="82" font-size="13" text-anchor="middle">Qt</text>
+  </g>
+  <g class="icon-float" style="animation-delay:0.25s" transform="translate(270,130)">
+    <image href="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="60" height="60"/>
+    <text x="30" y="82" font-size="13" text-anchor="middle">Visual Studio</text>
+  </g>
+  <g class="icon-float" style="animation-delay:0.4s" transform="translate(420,130)">
+    <image href="https://skillicons.dev/icons?i=vscode&theme=dark" width="60" height="60"/>
+    <text x="30" y="82" font-size="13" text-anchor="middle">VS Code</text>
+  </g>
+  <g class="icon-float" style="animation-delay:0.55s" transform="translate(570,130)">
+    <image href="https://skillicons.dev/icons?i=github&theme=dark" width="60" height="60"/>
+    <text x="30" y="82" font-size="13" text-anchor="middle">GitHub</text>
+  </g>
+  <g class="icon-float" style="animation-delay:0.7s" transform="translate(720,130)">
+    <rect width="60" height="60" rx="12" fill="#1b1f2e"/>
+    <image href="https://cdn.simpleicons.org/tinkercad" x="10" y="10" width="40" height="40"/>
+    <text x="30" y="82" font-size="13" text-anchor="middle">Tinkercad</text>
+  </g>
+</svg>
