@@ -18,23 +18,92 @@ I enjoy exploring the connection between **hardware and software**, along with p
 ---
 
 ## 🛠️ Tech Stack & Tools
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="5" align="center" style="color: white;">Languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://www.c-language.org/"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="50" height="50" alt="C"/></a>
+        <br>C
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50" height="50" alt="C++"/></a>
+        <br>C++
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="50" height="50" alt="C#"/></a>
+        <br>C#
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" height="50" alt="Python"/></a>
+        <br>Python
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" height="50" alt="MySQL"/></a>
+        <br>MySQL
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
-<a href="https://www.c-language.org/"><img src="https://skillicons.dev/icons?i=c&theme=dark" /></a>
-<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
-<a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://skillicons.dev/icons?i=cs&theme=dark" /></a>
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
-<a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" /></a>
-<a href="https://www.qt.io/"><img src="https://skillicons.dev/icons?i=qt&theme=dark" /></a>
-<a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" /></a>
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
-<a href="https://www.tinkercad.com/">
-  <img src="https://cdn.simpleicons.org/tinkercad" height="48" alt="Tinkercad"/>
-</a>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Hardware & Embedded</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="50" height="50" alt="Arduino"/></a>
+        <br>Arduino
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.qt.io/"><img src="https://skillicons.dev/icons?i=qt&theme=dark" width="50" height="50" alt="Qt"/></a>
+        <br>Qt
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.tinkercad.com/"><img src="https://cdn.simpleicons.org/tinkercad" width="50" height="50" alt="Tinkercad"/></a>
+        <br>Tinkercad
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">IDEs & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="50" height="50" alt="Visual Studio"/></a>
+        <br>Visual Studio
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" height="50" alt="VS Code"/></a>
+        <br>VS Code
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" height="50" alt="GitHub"/></a>
+        <br>GitHub
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 ## 📊 Github Stats
