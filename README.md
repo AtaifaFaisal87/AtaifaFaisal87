@@ -18,9 +18,8 @@ I enjoy exploring the connection between **hardware and software**, along with p
 ---
 
 ## 🛠️ Tech Stack & Tools
-
 <p align="center">
-  <img src="assets/tech-stack-animated.svg" alt="Tech Stack" />
+  <img src="https://raw.githubusercontent.com/AtaifaFaisal87/AtaifaFaisal87/main/assets/tech-stack-animated.svg" alt="Tech Stack" width="100%" />
 </p>
 
 ---
