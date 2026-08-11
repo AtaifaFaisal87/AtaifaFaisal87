@@ -19,73 +19,10 @@ I enjoy exploring the connection between **hardware and software**, along with p
 
 ## 🛠️ Tech Stack & Tools
 
-<h3 align="center">Languages & Tools</h3>
-
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <a href="https://www.c-language.org/">
-          <img src="https://skillicons.dev/icons?i=c&theme=dark" width="50" height="50" alt="C"/>
-        </a><br>C
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://isocpp.org/">
-          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" alt="C++"/>
-        </a><br>C++
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://dotnet.microsoft.com/languages/csharp">
-          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" height="50" alt="C#"/>
-        </a><br>C#
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://www.python.org/">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python"/>
-        </a><br>Python
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://www.mysql.com/">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="MySQL"/>
-        </a><br>MySQL
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://www.arduino.cc/">
-          <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="50" height="50" alt="Arduino"/>
-        </a><br>Arduino
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border: none;">
-        <a href="https://www.qt.io/">
-          <img src="https://skillicons.dev/icons?i=qt&theme=dark" width="50" height="50" alt="Qt"/>
-        </a><br>Qt
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://visualstudio.microsoft.com/">
-          <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="50" height="50" alt="Visual Studio"/>
-        </a><br>Visual Studio
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://code.visualstudio.com/">
-          <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" height="50" alt="VS Code"/>
-        </a><br>VS Code
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://github.com/">
-          <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="GitHub"/>
-        </a><br>GitHub
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://www.tinkercad.com/">
-          <img src="https://skillicons.dev/icons?i=&theme=dark" width="50" height="50" alt="Tinkercad" style="display:none"/>
-          <img src="https://cdn.simpleicons.org/tinkercad" width="50" height="50" alt="Tinkercad"/>
-        </a><br>Tinkercad
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+<img src="https://raw.githubusercontent.com/AtaifaFaisal87/AtaifaFaisal87/main/tech-stack-animated.svg" width="900" />
+
 </div>
 
 ---
