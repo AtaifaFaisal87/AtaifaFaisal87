@@ -143,12 +143,10 @@ I enjoy exploring the connection between **hardware and software**, along with p
 </div>
 
 ---
+<p align="center">
+  <img src="https://count.getloli.com/@AtaifaFaisal87?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views">
+</p>
 
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=AtaifaFaisal87&color=6E57F7&style=flat-square&label=Profile+Views)
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=50&text=The+more+I+learn,+the+more+I+realize+how+much+I+don't+know.&fontSize=14&fontColor=c0caf5&fontAlign=50&fontAlignY=50" />
 </div>
 
