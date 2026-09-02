@@ -136,9 +136,10 @@ I enjoy exploring the connection between **hardware and software**, along with p
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ataifa-faisal-224084344)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ataifa_Faisal/)
-[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/AtaifaFaisal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E7D32?style=for-the-badge\&logo=minecraft\&logoColor=white)](https://portfolio-minecraft-three.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ataifa-faisal-224084344)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Ataifa_Faisal/)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge\&logo=linktree\&logoColor=white)](https://linktr.ee/AtaifaFaisal)
 
 </div>
 
