@@ -20,40 +20,91 @@ I enjoy exploring the connection between **hardware and software**, along with p
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
+
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="5" align="center" style="color: white;">Languages</th>
+      <th colspan="4" align="center" style="color: white;">Programming Languages</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://www.c-language.org/"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="50" height="50" alt="C"/></a>
+        <a href="https://www.c-language.org/">
+          <img src="https://skillicons.dev/icons?i=c&theme=dark" width="50" height="50" alt="C"/>
+        </a>
         <br>C
       </td>
       <td align="center" style="border: none;">
-        <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50" height="50" alt="C++"/></a>
+        <a href="https://isocpp.org/">
+          <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50" height="50" alt="C++"/>
+        </a>
         <br>C++
       </td>
       <td align="center" style="border: none;">
-        <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="50" height="50" alt="C#"/></a>
+        <a href="https://dotnet.microsoft.com/languages/csharp">
+          <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="50" height="50" alt="C#"/>
+        </a>
         <br>C#
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" height="50" alt="Python"/></a>
+        <a href="https://www.python.org/">
+          <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" height="50" alt="Python"/>
+        </a>
         <br>Python
       </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="2" align="center" style="color: white;">Frontend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
       <td align="center" style="border: none;">
-        <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" height="50" alt="MySQL"/></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+          <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" height="50" alt="HTML"/>
+        </a>
+        <br>HTML
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+          <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" height="50" alt="CSS"/>
+        </a>
+        <br>CSS
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="1" align="center" style="color: white;">Database</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://www.mysql.com/">
+          <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" height="50" alt="MySQL"/>
+        </a>
         <br>MySQL
       </td>
     </tr>
   </tbody>
 </table>
-</div>
 
-<div align="center">
+<br>
+
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -63,23 +114,29 @@ I enjoy exploring the connection between **hardware and software**, along with p
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="50" height="50" alt="Arduino"/></a>
+        <a href="https://www.arduino.cc/">
+          <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="50" height="50" alt="Arduino"/>
+        </a>
         <br>Arduino
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.qt.io/"><img src="https://skillicons.dev/icons?i=qt&theme=dark" width="50" height="50" alt="Qt"/></a>
+        <a href="https://www.qt.io/">
+          <img src="https://skillicons.dev/icons?i=qt&theme=dark" width="50" height="50" alt="Qt"/>
+        </a>
         <br>Qt
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.tinkercad.com/"><img src="https://cdn.simpleicons.org/tinkercad" width="50" height="50" alt="Tinkercad"/></a>
+        <a href="https://www.tinkercad.com/">
+          <img src="https://cdn.simpleicons.org/tinkercad" width="50" height="50" alt="Tinkercad"/>
+        </a>
         <br>Tinkercad
       </td>
     </tr>
   </tbody>
 </table>
-</div>
 
-<div align="center">
+<br>
+
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -89,21 +146,29 @@ I enjoy exploring the connection between **hardware and software**, along with p
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="50" height="50" alt="Visual Studio"/></a>
+        <a href="https://visualstudio.microsoft.com/">
+          <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="50" height="50" alt="Visual Studio"/>
+        </a>
         <br>Visual Studio
       </td>
       <td align="center" style="border: none;">
-        <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" height="50" alt="VS Code"/></a>
+        <a href="https://code.visualstudio.com/">
+          <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" height="50" alt="VS Code"/>
+        </a>
         <br>VS Code
       </td>
       <td align="center" style="border: none;">
-        <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" height="50" alt="GitHub"/></a>
+        <a href="https://github.com/">
+          <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" height="50" alt="GitHub"/>
+        </a>
         <br>GitHub
       </td>
     </tr>
   </tbody>
 </table>
+
 </div>
+
 
 ## 📊 Github Stats
 <div align="center">
